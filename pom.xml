@@ -63,7 +63,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-    <Build>
+    <build>
              <plugins>
                       <groupId>org.apache.maven.plugins</groupId>
                       <artifactId>maven-dependency-plugin</artifactId>
@@ -85,5 +85,5 @@
                                </execution>
                       </executions>
              </plugins>
-    </Build>
+    </build>
 </project>
